@@ -1,5 +1,8 @@
 # Dataquest_DS_path
 I am using Dataquest.io to learn all the skills required to land a Data Science Job.
-Here are the steps I am to follow:
-1. Introduction to NumPy
-  - This notebook will contains all the examples and practice code
+
+Challenges, Missions and Projects for the following topics:
+1. Python Introduction
+   - Python for Data Science: Fundamentals
+   - Python for Data Science: Intermediate
+2. 
