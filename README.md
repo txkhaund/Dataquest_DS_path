@@ -5,4 +5,7 @@ Challenges, Missions and Projects for the following topics:
 1. Python Introduction
    - Python for Data Science: Fundamentals
    - Python for Data Science: Intermediate
-2. 
+2. Data Analysis and Visualization
+   - Pandas and NumPy Fundamentals
+   - 
+   -
