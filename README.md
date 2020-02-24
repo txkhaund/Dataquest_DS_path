@@ -7,5 +7,5 @@ Challenges, Missions and Projects for the following topics:
    - Python for Data Science: Intermediate
 2. Data Analysis and Visualization
    - Pandas and NumPy Fundamentals
-   - 
+   - Exploratory Data Visualization
    -
