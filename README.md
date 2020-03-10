@@ -8,4 +8,4 @@ Challenges, Missions and Projects for the following topics:
 2. Data Analysis and Visualization
    - Pandas and NumPy Fundamentals
    - Exploratory Data Visualization
-   -
+   - Storytelling Through Data Visualization
