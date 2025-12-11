@@ -1,5 +1,5 @@
 # Dataquest_DS_path
-I am using Dataquest.io to learn all the skills required to land a Data Science Job.
+I am revisiting Dataquest to upskill & land a Data Science job after my layoff. (ts: 2025)
 
 Challenges, Missions and Projects for the following topics:
 1. Python Introduction
